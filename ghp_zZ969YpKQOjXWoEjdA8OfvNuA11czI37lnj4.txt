@@ -1,0 +1,174 @@
+Ссылка на профиль: https://github.com/Velmirakin90GlO
+Email: Morales777Jeanette@gmail.com
+Пароль от аккаунта: FFCU6g-URBfe
+Proxy Host: 74.81.81.81
+Proxy Port: 15595
+Proxy Username: d7ddcc1b0936f0cf9c7f
+Proxy Password: d3da5039f20843e0
+Cookies:
+[
+    {
+        "domain": "github.com",
+        "httpOnly": true,
+        "name": "_gh_sess",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "yEiaBdxmBMFpxXMRwmghNsvXkm0tk%2BZZpPgjFk804NiXUoVveQLT2Ge0P1UgaA%2BkWCKtfdQxCuW5QPz8LM2d7l3Or7REWLkJs3mDWwMJyEMAIe%2BmuyCTa3wEer17TnaqRhRujf36LurF%2FKcBvWCghddZeGBtAXD7C7uNEWgYcpUXbaHPHvFm%2F3ZXbjbx3aLbFRcwpevxnXIcDAxOyVEe1%2Bov7zbOLbeFex2vqjxthYJfIbuuLKXRyStHH3wb0CUz1fQZ7QGxM6Ed0QrId2aVXnMXFaJTrMwGJzgbemGbZ9n7zIGqBP68lbvscTl73ZgKpufvHLqxTI5OwUh1KlwsQ0o4GZyqtpQLWEeMsX9IML01fZTfoBQMv6B8dsXMz7hlDvFrPLjPr1QKYBjvw1%2BVLvj5hp3RGQZzbsE%2BqsdTfdFP%2BjoH0tKr6tCA4giG3IBA38tgq5KPLSF5%2FF1YWBGMDo5vAZI6CcCOxOG%2B0RmBixOqg3xFv77fi1RiKA3g6CqAOJP%2FUlwwiW5rj0nTpzFxPNDqlgyXyxNbzv5iTsxHjhCDLzOEiu8XjwazpicVCHuFexqszuIn2xpkHnkBUs%2BWvuwWTQRVPa%2Fb%2B2yri2AV0UOl1TTBVvBdiADqFgjfS4RfFEyQtV3qYsBbdKMV8lYyTISXpi3NWEotC%2Fh29P8G6JeYO1vBgw16M8SmhtaRSLmCM9w00V4wOzVTUzjHi%2B2eq2qg2cPH4Fl%2FNx63k2gDL4lQROgyn3ak7LQmHs61tiAmx5oY5xiUAHq%2Bg%2FNotKHLmMgqIQFwz%2FG1BobNUwpgjLhJKje%2BmF8mfRJOQnUBtsBN9ck4EXVS%2BYQQLtpAllma0s%2BB6jW9Asn7l3B6BFKG%2B2E5dyizMaunTwMn84H%2B2z38ShnN8TrenYeVDPLGrfeOLDO%2F9HRylsFlCLD%2F4io6MwQ3bUed2apEd%2Bko9Kiv6wpcStHexsvb3QmvYe89RhJIj4cLDvslvm1h0oG5sDGGVp5zlgvMG0XVG3S7BWwkZTNKvpGtkdC9C6Y13udNJ5VhCIgOCCmYS1niYDMpYesCE10yjzHFU5mvcNsepvkxO9vau8qZe1seQ3Zrzya0sEH06pF7AOJsGyjqIiOevU5ql1YRisQeKosbig%2BrYHZzhT1aD6kj84G2Ht4rn%2Bu95cCC3nQF2%2FP0pISNtlofrXFdJ1d8jtEkTxG7FdjnmlpJiA6l6SKTAm%2BOpHqOaRGb--V7leLzb%2FzVHxZg9D--lgknbv3MTzfiAfze4JvAtw%3D%3D"
+    },
+    {
+        "domain": ".github.com",
+        "expiry": 1788468797,
+        "httpOnly": true,
+        "name": "logged_in",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "yes"
+    },
+    {
+        "domain": ".github.com",
+        "httpOnly": false,
+        "name": "color_mode",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "%7B%22color_mode%22%3A%22auto%22%2C%22light_theme%22%3A%7B%22name%22%3A%22light%22%2C%22color_mode%22%3A%22light%22%7D%2C%22dark_theme%22%3A%7B%22name%22%3A%22dark%22%2C%22color_mode%22%3A%22dark%22%7D%7D"
+    },
+    {
+        "domain": "github.com",
+        "expiry": 1758142397,
+        "httpOnly": true,
+        "name": "user_session",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "qT2BBVPpwxhTMHkyvuEcz-tn1j7JLtBeHMGBFMKSuX8KxvX_"
+    },
+    {
+        "domain": "github.com",
+        "expiry": 1764712397,
+        "httpOnly": true,
+        "name": "saved_user_sessions",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "230247459%3AqT2BBVPpwxhTMHkyvuEcz-tn1j7JLtBeHMGBFMKSuX8KxvX_"
+    },
+    {
+        "domain": "github.com",
+        "expiry": 1788468746,
+        "httpOnly": false,
+        "name": "MSFPC",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "GUID=a020e80603d148e295820295f410f494&HASH=a020&LV=202509&V=4&LU=1756932743327"
+    },
+    {
+        "domain": ".github.com",
+        "expiry": 1788468797,
+        "httpOnly": true,
+        "name": "dotcom_user",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "Velmirakin90GlO"
+    },
+    {
+        "domain": ".github.com",
+        "expiry": 1772484738,
+        "httpOnly": false,
+        "name": "GHCC",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "Required:1-Analytics:1-SocialMedia:1-Advertising:1"
+    },
+    {
+        "domain": "github.com",
+        "expiry": 1788468791,
+        "httpOnly": false,
+        "name": "MicrosoftApplicationsTelemetryDeviceId",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "ff8333aa-b0b1-4a13-b481-153763745d89"
+    },
+    {
+        "domain": "github.com",
+        "expiry": 1788468790,
+        "httpOnly": true,
+        "name": "_device_id",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "0273a4931adfbaca3b516922cdeec675"
+    },
+    {
+        "domain": ".github.com",
+        "httpOnly": false,
+        "name": "tz",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "Europe%2FKiev"
+    },
+    {
+        "domain": "github.com",
+        "httpOnly": true,
+        "name": "tz",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "Europe%2FKiev"
+    },
+    {
+        "domain": ".github.com",
+        "httpOnly": false,
+        "name": "preferred_color_mode",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "dark"
+    },
+    {
+        "domain": ".github.com",
+        "httpOnly": false,
+        "name": "cpu_bucket",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "xlg"
+    },
+    {
+        "domain": "github.com",
+        "expiry": 1758142397,
+        "httpOnly": true,
+        "name": "__Host-user_session_same_site",
+        "path": "/",
+        "sameSite": "Strict",
+        "secure": true,
+        "value": "qT2BBVPpwxhTMHkyvuEcz-tn1j7JLtBeHMGBFMKSuX8KxvX_"
+    },
+    {
+        "domain": ".github.com",
+        "expiry": 1756934591,
+        "httpOnly": false,
+        "name": "ai_session",
+        "path": "/",
+        "sameSite": "None",
+        "secure": true,
+        "value": "9axl3Ss8cX+3LE5e4Dm1Aa|1756932739993|1756932791268"
+    },
+    {
+        "domain": ".github.com",
+        "expiry": 1788468734,
+        "httpOnly": false,
+        "name": "_octo",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "GH1.1.1419136651.1756932733"
+    }
+]
